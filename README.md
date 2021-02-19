@@ -1,4 +1,4 @@
-# ***AREP 1 Tercio Servicio Fachada***
+# ***AREP 1 : Tercio Servicio Fachada***
 
 ## Taller de verificación de conocimientos tecnicos GRUPO2
 
