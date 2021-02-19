@@ -33,7 +33,7 @@
 
 1. Primero se debe clonar el repositorio, con el siguiente comando descrito:
 
-       git clone https://github.com/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS
+       git clone https://github.com/Fabimauri47/AREPT1ServicioFachada
     
 
 2. Luego proceda abrir el cmd (Ventana de comandos) en donde tiene el repositorio alojado y ejecute el siguiente comando:
@@ -43,8 +43,8 @@
 
 3. Ejecutamos el programa con el siguiente comando:
 
-       mvn exec:java -D "exec.mainClass"="edu.escuelaing.demo.NanoSparkWebDemo"
-   
+       java -cp target/classes;target/dependency/* edu.eci.arep.controller.CalculatorController
+       
 
 4. Gereramos la documentación con el siguiente comando ejecutandolo desde consola:
 
